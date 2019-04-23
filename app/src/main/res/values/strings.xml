@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Sample: Andrey Kostenko</string>
+    <string name="you">Me:</string>
+    <string name="text">CALLBACK TO Activity</string>
+    <string name="sorry">Sorry you reward is not ready, please try again later…</string>
+    <string name="admob_app_id">ca-app-pub-1530405484651892~8674317049</string>
+    <string name="sponsored">Sponsored</string>
+    <string name="watch_video">Watch this cool gms ad!!!</string>
+    <string name="show">Show reward!</string>
+</resources>

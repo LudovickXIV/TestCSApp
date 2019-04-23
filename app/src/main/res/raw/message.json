@@ -1,0 +1,68 @@
+[
+  {
+    "message":"Hey, do you try this new cat food? It's amazing!!!",
+    "url":"https://images.pexels.com/photos/208984/pexels-photo-208984.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=300",
+    "date":"23.04.2019",
+    "isMe":true,
+    "name":"Solomon",
+    "isAd":false
+  },
+  {
+    "message":"Yeah, this pretty cool, but I like more health food, like fresh meat, or fish...",
+    "url":"https://images.pexels.com/photos/736532/pexels-photo-736532.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=300",
+    "date":"23.04.2019",
+    "isMe":false,
+    "name":"Larry",
+    "isAd":false
+  },
+
+  {
+    "message":null,
+    "url":null,
+    "date":null,
+    "isMe":false,
+    "name":null,
+    "isAd":true
+  },
+
+  {
+    "message":"Waazzaaaap bro!!! Let's go hunting!",
+    "url":"https://images.pexels.com/photos/416135/pexels-photo-416135.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=300",
+    "date":"24.04.2019",
+    "isMe":false,
+    "name":"King",
+    "isAd":false
+  },
+  {
+    "message":"Sorry bro, I busy today...(",
+    "url":"https://images.pexels.com/photos/208984/pexels-photo-208984.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=300",
+    "date":"24.04.2019",
+    "isMe":true,
+    "name":"Solomon",
+    "isAd":false
+  },
+  {
+    "message":"Hello Solomon! I'm found new birds-nest. But this bird... very big one!!! I'm need you help, please.",
+    "url":"https://images.pexels.com/photos/1653357/pexels-photo-1653357.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=300",
+    "date":"25.04.2019",
+    "isMe":false,
+    "name":"Mia",
+    "isAd":false
+  },
+  {
+    "message":"Ooh hello Mia! Yes sure I help you, but let's do this today, tomorrow I busy!",
+    "url":"https://images.pexels.com/photos/208984/pexels-photo-208984.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=300",
+    "date":"24.04.2019",
+    "isMe":true,
+    "name":"Solomon",
+    "isAd":false
+  },
+  {
+    "message":null,
+    "url":null,
+    "date":null,
+    "isMe":false,
+    "name":null,
+    "isAd":true
+  }
+]
